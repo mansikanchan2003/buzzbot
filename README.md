@@ -26,6 +26,7 @@ BuzzBot is a sleek and intelligent AI chatbot inspired by **Google Gemini**, bui
 | OpenAI API (Optional) | Chatbot engine (if integrated) |
 
 ---
+Website Link :- https://mansikanchan2003.github.io/buzzbot/
 
 ## 📦 Getting Started
 
